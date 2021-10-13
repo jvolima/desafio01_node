@@ -1,5 +1,5 @@
 # Chapter I - Desafio 01: Conceitos do Node.js :rocket: :purple_heart:
 
-## :dart: Objetivo
+## Aplicacação que tem a função de criar Users e To-dos.
 
 
